@@ -1,0 +1,45 @@
+CRITICAL - 2023-03-14 03:17:20 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\Report.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Report')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Report')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\Router->handle('Report')
+ 4 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:19:10 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\Report.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Report')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Report')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\Router->handle('Report')
+ 4 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:19:12 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\Report.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Report')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Report')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\Router->handle('Report')
+ 4 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:19:12 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\Report.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Report')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Report')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\Router->handle('Report')
+ 4 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-03-14 03:19:47 --> syntax error, unexpected token "[", expecting "("
+in APPPATH\Controllers\Report.php on line 19.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Report')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Report')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\Router->handle('Report')
+ 4 SYSTEMPATH\CodeIgniter.php(430): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
